@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-# Passing Test case for checking factorial of numbers
+# Passing Test case for checking if the string passed is palindrome or not
 
 import unittest
 from Palindrome import isPalindrome
-
 
 class TestCase(unittest.TestCase):
     def testCase1(self):

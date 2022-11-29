@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Failing Test case for factorial
+# Passing Test case for checking if the string passed is palindrome or not
 
 import unittest
 from Palindrome import isPalindrome
